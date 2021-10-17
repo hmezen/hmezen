@@ -1,4 +1,5 @@
 
+
 <!--
 **hmezen/hmezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,15 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
 -->
+
 <p>
     <div>
-       
         <a href="https://www.linkedin.com/in/mezen-hamdeni/"><img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=LinkedIn&color=dfdfdf&labelColor=acacac&logoColor=f9f9f9" alt="LinkedIn"></a>
-      
         <hr>
-        <strong>Hi, I'm Mezen!</strong> 👋 I'm a software developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical software solutions that can help make the world a better place.
+        <strong>Hi, I'm Mezen!</strong> 👋  I'm a software developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical software solutions that can help make the world a better place.
         <br>
     </div>
 </p>
